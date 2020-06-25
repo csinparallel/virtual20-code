@@ -9,7 +9,7 @@
 #include <cstdlib>
 
 
-#define DEFAULT_max_ligand 7
+#define DEFAULT_max_ligand 6
 #define DEFAULT_nligands 50
 #define DEFAULT_nthreads 4
 #define DEFAULT_protein "the cat in the hat wore the hat to the cat hat party"
